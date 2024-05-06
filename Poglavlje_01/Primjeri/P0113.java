@@ -21,7 +21,7 @@ public class P0113 {
 
     static public void main(String[] args) {
 
-        System.out.println("Primjer greške u kodu");
+        System.out.println("Primjer greske u kodu");
 
     }
 }

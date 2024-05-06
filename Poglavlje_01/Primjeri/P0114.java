@@ -17,7 +17,7 @@ public class P0114 {
 
     public static void main(String[] args) {
 
-        System.out.println("Ispis, obrati paznju na navodnike);
+        System.out.println("Ispis, obrati paznju na navodnike");
 
     }
 }
